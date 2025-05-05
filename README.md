@@ -50,7 +50,7 @@ This uploads the local code to GitHub.
 ---
 
 ### **4. Create a README.md File Using GitHub Web Interface:**
-✅ Already completed in Step 2 while creating the repository.
+ Already completed in Step 2 while creating the repository.
 
 ---
 
@@ -111,6 +111,9 @@ git push origin feature/update-readme
 
 <img src="images/picture-8.png" alt="Changes Pushed to GitHub" width="800">
 
+### **8.Create a pull request from "feature/update-readme" to main branch:**
+Now we can create a pull request manually in the GitHub as shown in the image by pressing the 
+
 ---
 
-✅ **Successfully Completed Assignment 2**
+**Successfully Completed Assignment 2**
