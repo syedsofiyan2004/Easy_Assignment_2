@@ -112,7 +112,16 @@ git push origin feature/update-readme
 <img src="images/picture-8.png" alt="Changes Pushed to GitHub" width="800">
 
 ### **8.Create a pull request from "feature/update-readme" to main branch:**
-Now we can create a pull request manually in the GitHub as shown in the image by pressing the 
+Now we can create a pull request manually in the GitHub as shown in the image by pressing the create pull request button as shown in the image:
+<img src="images/picture-9.png" alt="Changes Pushed to GitHub" width="800">
+
+### **9.	Review and merge the pull request:**
+After we create a pull request it will automatically will create a merge pull request as shown in the image:
+<img src="images/picture-10.png" alt="Changes Pushed to GitHub" width="800">
+after merging a pull request we can see that it is successfully Merged as shown in the image:
+<img src="images/picture-11.png" alt="Changes Pushed to GitHub" width="800">
+We have successfully Merged the content of feature/update-readme branch to main branch:
+<img src="images/picture-12.png" alt="Changes Pushed to GitHub" width="800">
 
 ---
 
